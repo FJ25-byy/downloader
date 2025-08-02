@@ -2,8 +2,9 @@
   "name": "tiktok-tool",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "tools.js",
   "scripts": {
+    "start": "node tools.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
